@@ -1,3 +1,4 @@
+#part1
 def nextstart():
     global start
     global forward
